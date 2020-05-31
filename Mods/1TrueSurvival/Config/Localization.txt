@@ -1,0 +1,928 @@
+Key,English
+BLOCK_________________________XML,BLOCK_________________________XML
+jz_CharacterChoiceComputer,Starting Options
+jz_CharacterChoiceComputerDesc,"Immediately place on the ground and use to chose your players starting stats and knowledge.\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_QIBugOutBag,"Bug Out Bag"
+jz_QIBugOutBagDesc,"A pre packed bag for when shit hit the fan and you have to flee in a hurry."
+jz_QIBugOutBagLoot,"Bug Out Bag"
+ITEM_________________________XML,ITEM_________________________XML
+jz_ProfessionChoice,Knowledge Point
+jz_ProfessionChoiceDesc,"Use these points to purchase your starting player stats and knowledge. Purchase Negative traits to earn more. Scrap or trash any points you don't want to use."
+jz_TraitRefundDesc,"Used to facilitate the refund of Knowledge Points. It is safe to trash or scrap this for Paper."
+jz_TraitRefundSlowDriver,Refund Receipt
+jz_TraitRefundSleepy,Refund Receipt
+jz_TraitRefundClumsy,Refund Receipt
+jz_TraitRefundAllThumbs,Refund Receipt
+jz_TraitRefundWeakStomach,Refund Receipt
+jz_TraitRefundAgoraphobic,Refund Receipt
+jz_TraitRefundClaustrophobic,Refund Receipt
+jz_TraitRefundBadLeg,Refund Receipt
+jz_TraitRefundAsthmatic,Refund Receipt
+jz_TraitRefundOutOfShape,Refund Receipt
+jz_TraitRefundSmoker,Refund Receipt
+jz_TraitRefundHemophobic,Refund Receipt
+jz_TraitRefundThinSkinned,Refund Receipt
+jz_TraitRefundWeak,Refund Receipt
+jz_ProfessionFireFighterBook,The Fire Fighting Profession
+jz_FiremanProfessionDesc,"All the knowledge needed to become a Fire Fighter.\n20% Block Dmg w/Fireaxes\n+5% Max Stamina\nRecipes- Aloe Cream, Medical Bandage, Molotov Cocktail, Firemans Axe Mod"
+jz_ProfessionPoliceOfficerBook,The Police Profession
+jz_CopProfessionDesc,"All the knowledge needed to become a Police Officer.\n10% Faster Reload & better Aim w/Pistol & Magnums\nRecipes- Pistol, Gun Oil, Stun Baton, Weapon Repair Kit"
+jz_ProfessionParkRangerBook,The Park Ranger Profession
+jz_ParkRangerProfessionDesc,"All the knowledge needed to become a Park Ranger.\n20% Faster Primitive Crafting\nRecipes- Herbal Antibiotics, Spear Iron, Spear Steel"
+jz_ProfessionBouncerBook,The Bouncer Profession
+jz_BouncerProfessionDesc,"All the knowledge needed to become a Bouncer.\n10% Less Stamina w/Brawling\nRecipes- Brass Knuckles Mold, Brass Knuckles, Leather Knuckles, Beer, Mead, Grain Alcohol"
+jz_ProfessionChefBook,The Chef Profession
+jz_ChefProfessionDesc,"All the knowledge needed to become a Chef.\n20% Faster Cooking\nRecipes- All Food Recipes"
+jz_ProfessionBurglarBook,The Burglar Profession
+jz_ThiefProfessionDesc,"All the knowledge needed to become a Burglar.\n10% Faster Movement & Less Noise while Crouching\n20% Faster Looting & Pinpoint Treasure location\nRecipes- Lock Picks"
+jz_ProfessionCarpenterBook,The Carpenter Profession
+jz_CarpenterProfessionDesc,"All the knowledge needed to become a Carpenter.\n20% Faster Crafting on the Workbench and Tablesaw\nRecipes- All Wooden Frame Shapes, Planks"
+jz_ProfessionMasonBook,The Mason Profession
+jz_MasonProfessionDesc,"All the knowledge needed to become a Mason.\n20% Faster Crafting on the Cementmixer\nRecipes- All Brick and Flagstone Frame Shapes, Bricks, Cobblestone"
+jz_ProfessionSoldierBook,The Soldier Profession
+jz_SoldierProfessionDesc,"All the knowledge needed to become a Soldier.\n10% Faster Reload & better Aim w/M60 & AK47\nRecipes- Grubs, Weapon Repair Kit, Blunderbuss, Blunderbuss, AK47, Pipe Bomb, Cooking Pot Mine"
+jz_ProfessionFitnessInstructorBook,Fitness Instructor Profession
+jz_FitnessInstructorProfessionDesc,"All the knowledge needed to become a Fitness Instructor.\n10% Faster Movment\n5% Less Stamina used while running\nRecipes- Golden Rod Tea, Red Tea, Mega Crush, Wellness Juice, Vitamins"
+jz_ProfessionElectricianBook,The Electrician Profession
+jz_ElectricianProfessionDesc,"All the knowledge needed to become a Electrician.\n10% Faster Electrical Crafting\nRecipes- Generator Bank, Pressure Plate, Battery Bank, Ceiling Light, Timer Relay, Wire Relay, Motion Sensor, Speaker, Switch, Electric Fencepost, Spotlight, Stun Baton"
+jz_ProfessionMetalWorkerBook,The Metal Worker Profession
+jz_MetalWorkerProfessionDesc,"All the knowledge needed to become a Metal Worker.\n10% Faster Crafting on the Forge\nRecipes- All Scrap Iron Frame Shapes, Sheet Metal"
+jz_ProfessionMechanicBook,The Mechanic Profession
+jz_MechanicProfessionDesc,"All the knowledge needed to become a Mechanic.\n20% Faster Vehicle Crafting\nRecipes- Small Engine, Large Engine, All Vehicles"
+jz_ProfessionDoctorBook,The Doctor Profession
+jz_DoctorProfessionDesc,"All the knowledge needed to become a Doctor.\n20% Faster Medical Crafting\nRecipes- Aloe Cream, First Aid Bandage, Stimulant, Suture Kit, AntiVenom, Painkillers, Steroids, Antibiotics"
+jz_ProfessionFarmerBook,The Farmer Profession
+jz_BouncerProfessionDesc,"All the knowledge needed to become a Farmer.\n20% Faster Seed Crafting\nRecipes- All Plantable seeds"
+jz_ProfessionChemistBook,The Chemist Profession
+jz_ChemistProfessionDesc,"All the knowledge needed to become a Chemist.\n20% Faster Chemistry Crafting\nRecipes- Mega Crush, Stimulant, Acid, Oil Shale, GunPowder, Purification Tablets"
+jz_ProfessionSoldier,Soldier Profession
+jz_ProfessionSoldierKitDesc,"All the knowledge needed to become a Soldier\nStart with a Old Rifle and ammo\n10% Faster Reload & better Aim w/M60 & AK47\nRecipes- Grubs, Weapon Repair Kit, Blunderbuss, Blunderbuss, AK47, Pipe Bomb, Cooking Pot Mine"
+jz_ProfessionDoctor,Doctor Profession
+jz_ProfessionDoctorKitDesc,"All the knowledge needed to become a Doctor.\nStart with Painkillers, Stimulants, Aloe Creams and a Suture Kit\n20% Faster Medical Crafting\nRecipes- Aloe Cream, First Aid Bandage, Stimulant, Suture Kit, AntiVenom, Painkillers, Steroids, Antibiotics"
+jz_ProfessionBouncer,Bouncer Profession
+jz_ProfessionBouncerKitDesc,"All the knowledge needed to become a Bouncer.\nStart with Brass Knuckles\n10% Less Stamina w/Brawling\nRecipes- Brass Knuckles Mold, Brass Knuckles, Leather Knuckles, Beer, Mead, Grain Alcohol"
+jz_ProfessionChemist,Chemist Profession
+jz_ProfessionChemistKitDesc,"All the knowledge needed to become a Chemist.\nStarts with Painkillers and Stimulants\n20% Faster Chemistry Crafting\nRecipes- Mega Crush, Stimulant, Acid, Oil Shale, GunPowder, Purification Tablets"
+jz_ProfessionCarpenter,Carpenter Profession
+jz_ProfessionCarpenterKitDesc,"All the knowledge needed to become a Carpenter.\nStarts with a Claw Hammer and Nails\n20% Faster Crafting on the Workbench and Tablesaw\nRecipes- All Wooden Frame Shapes, Planks"
+jz_ProfessionCop,Cop Profession
+jz_ProfessionCopKitDesc,"All the knowledge needed to become a Cop\nStart with a Old Revolver and ammo\n10% Faster Reload & better Aim w/Pistol & Magnums\nRecipes- Pistol, Gun Oil, Stun Baton, Weapon Repair Kit"
+jz_ProfessionChef,Chef Profession
+jz_ProfessionChefKitDesc,"All the knowledge needed to become a Chef.\nStart with a Old Knife\n20% Faster Cooking\nRecipes- All Food Recipes"
+jz_ProfessionFitnessInstructor,Fitness Instructor Profession
+jz_ProfessionFitnessInstructorKitDesc,"All the knowledge needed to become a Fitness Instructor.\nStart with a Baseball Bat\n10% Faster Movment\n5% Less Stamina used while running\nRecipes- Golden Rod Tea, Red Tea, Mega Crush, Wellness Juice, Vitamins"
+jz_ProfessionFireman,Fireman Profession
+jz_ProfessionFiremanKitDesc,"All the knowledge needed to become a Fire Fighter.\nStart with a Old Axe\n20% Block Dmg w/Fireaxes\n+5% Max Stamina\nRecipes- Aloe Cream, Medical Bandage, Molotov Cocktail, Firemans Axe Mod"
+jz_ProfessionMetalWorker,Metal Worker Profession
+jz_ProfessionMetalWorkerKitDesc,"All the knowledge needed to become a Metal Worker.\nStart with a Wrench\n10% Faster Crafting on the Forge\nRecipes- All Scrap Iron Frame Shapes, Sheet Metal"
+jz_ProfessionElectrician,Electrician Profession
+jz_ProfessionElectricianKitDesc,"All the knowledge needed to become a Electrician.\nStart with a Screwdriver\n10% Faster Electrical Crafting\nRecipes- Generator Bank, Pressure Plate, Battery Bank, Ceiling Light, Timer Relay, Wire Relay, Motion Sensor, Speaker, Switch, Electric Fencepost, Spotlight, Stun Baton"
+jz_ProfessionFarmer,Farmer Profession
+jz_ProfessionFarmerKitDesc,"All the knowledge needed to become a Farmer.\n20% Faster Seed Crafting\nRecipes- All Plantable seeds"
+jz_ProfessionThief,Burglar Profession
+jz_ProfessionThiefKitDesc,"All the knowledge needed to become a Burglar.\nStart with a Old Knife and Lock Picks\n10% Faster Movement & Less Noise while Crouching\n20% Faster Looting & Pinpoint Treasure location\nRecipes- Lock Picks"
+jz_ProfessionParkRanger,Park Ranger Profession
+jz_ProfessionParkRangerKitDesc,"All the knowledge needed to become a Park Ranger.\nStart with a Old Rifle and ammo\n20% Faster Primitive Crafting\nRecipes- Herbal Antibiotics, Spear Iron, Spear Steel"
+jz_ProfessionMechanic,Mechanic Profession
+jz_ProfessionMechanicKitDesc,"All the knowledge needed to become a Mechanic.\nStart with a Wrench\n20% Faster Vehicle Crafting\nRecipes- Small Engine, Large Engine, All Vehicles"
+jz_ProfessionMason,Mason Profession
+jz_ProfessionMasonKitDesc,"All the knowledge needed to become a Mason.\nStart with a Mason Hammer\n20% Faster Crafting on the Cementmixer\nRecipes- All Brick and Flagstone Frame Shapes, Bricks, Cobblestone"
+jz_NegativeTraitSlowDriver,Neg Trait Slow Driver
+jz_SlowDriverTraitDesc,"NEGATIVE TRAIT\n5% Slower while driving Vehicles\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_NegativeTraitSleepy,Neg Trait Sleepy
+jz_NegativeTraitSleepyDesc,"NEGATIVE TRAIT\n20% Slower Fatigue refill\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_NegativeTraitClumsy,Neg Trait Clumsy
+jz_NegativeTraitClumsyDesc,"NEGATIVE TRAIT\n10% More Noise when Moving\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_NegativeTraitAllThumbs,Neg Trait All Thumbs
+jz_NegativeTraitAllThumbsDesc,"NEGATIVE TRAIT\n10% Slower Crafting & Lock Picking\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_NegativeTraitWeakStomach,Neg Trait Weak Stomach
+jz_NegativeTraitWeakStomachDesc,"NEGATIVE TRAIT\n15% More chance to get food illnesses\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitAgoraphobic,Neg Trait Agoraphobic
+jz_NegativeTraitAgoraphobicDesc,"NEGATIVE TRAIT\nWhen Outdoors\n10% more Stamina Loss w/Melee\n10% Slower Reloading & 10% Less Weapon Handling\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitClaustrophobic,Neg Trait Claustrophobic
+jz_NegativeTraitClaustrophobicDesc,"NEGATIVE TRAIT\nWhen Indoors\n10% more Stamina Loss w/Melee\n10% Slower Reloading & 10% Less Weapon Handling\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitBadLeg,Neg Trait Bad Leg
+jz_NegativeTraitBadLegDesc,"NEGATIVE TRAIT\nChance to trigger old leg injury when you jump or run\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitAsthmatic,Neg Trait Asthmatic
+jz_NegativeTraitAsthmaticDesc,"NEGATIVE TRAIT\n20% More Stamina used\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitOutOfShape,Neg Trait Out Of Shape
+jz_NegativeTraitOutOfShapeDesc,"NEGATIVE TRAIT\n5% More Stamina used w/Melee\n5% More Stamina used while Encumbered\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_NegativeTraitSmoker,Neg Trait Smoker
+jz_NegativeTraitSmokerDesc,"NEGATIVE TRAIT\n20% More Stamina used while Running\n10% Slower Run Speed\nSmoking Addiction\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_NegativeTraitHemophobic,Neg Trait Hemophobic
+jz_NegativeTraitHemophobicDesc,"NEGATIVE TRAIT\n20% Less Healing from Medical Items\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_NegativeTraitThinSkinned,Neg Trait Thin Skinned
+jz_NegativeTraitThinSkinnedDesc,"NEGATIVE TRAIT\n10% More chance to get Injured from Attackers\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_NegativeTraitWeak,Neg Trait Weak
+jz_NegativeTraitWeakDesc,"NEGATIVE TRAIT\n10% More Stamina used w/Melee\n10% More Stamina used while Encumbered\n[f21b10]Traits do not stack, Don't buy two of the same[-]\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_PositiveTraitFastDriver,Pos Trait Fast Driver
+jz_PositiveTraitFastDriverDesc,"POSITIVE TRAIT\n5% Faster while driving Vehicles\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitWakeful,Pos Trait Wakeful
+jz_PositiveTraitWakefulDesc,"POSITIVE TRAIT\n20% Slower Fatigue Drain\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitGraceful,Pos Trait Graceful
+jz_PositiveTraitGracefulDesc,"POSITIVE TRAIT\n10% Less Noise when Moving\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitDexterous,Pos Trait Dexterous
+jz_PositiveTraitDexterousDesc,"POSITIVE TRAIT\n10% Faster Crafting & Lock Picking\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitIronGut,Pos Trait IronGut
+jz_PositiveTraitIronGutDesc,"POSITIVE TRAIT\n15% Less chance to get food illnesses\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitOutdoorsman,Pos Trait Outdoorsman
+jz_PositiveTraitOutdoorsmanDesc,"POSITIVE TRAIT\n10% Less effects from Weather\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitFit,Pos Trait Fit
+jz_PositiveTraitFitDesc,"POSITIVE TRAIT\n5% Less Stamina used w/Melee\n5% Less Stamina used while Encumbered\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitThickSkinned,Pos Trait Thick Skinned
+jz_PositiveTraitThickSkinnedDesc,"POSITIVE TRAIT\n10% Less chance to get Injured from Attackers\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitGymnast,Pos Trait Gymnast
+jz_PositiveTraitGymnastDesc,"POSITIVE TRAIT\n10% Less Stamina Jumping\n10% Farther safe fall distance\n10% Higher Jumping\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitMedic,Pos Trait Medic
+jz_PositiveTraitMedicDesc,"POSITIVE TRAIT\n20% More Healing from Medical Items\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitAmateurMechanic,Pos Trait Amateur Mechanic
+jz_PositiveTraitAmateurMechanicDesc,"POSITIVE TRAIT\n20% More Resources from harvesting Vehicles\nRecipes- Bicycle, Mini Bike\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitHunter,Pos Trait Hunter
+jz_PositiveTraitHunterDesc,"POSITIVE TRAIT\nCan track Deer and Pigs on mini map\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitRunner,Pos Trait Runner
+jz_PositiveTraitRunnerDesc,"POSITIVE TRAIT\n20% Less Stamina used while Running\n10% Faster Run Speed\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+jz_PositiveTraitStout,Pos Trait Stout
+jz_PositiveTraitStoutDesc,"POSITIVE TRAIT\n10% Less Stamina used w/Melee\n10% Less Stamina used while Encumbered\n[f21b10]Traits do not stack, Don't buy two of the same[-]"
+tatteredClothesDesc,"Threadbare clothing thats just good for not being naked. Can be scraped for Cloth"
+jz_TatteredShirt,Tattered Shirt
+jz_TatteredPants,Tattered Pants
+jz_TatteredShoes,Tattered Shoes
+jz_DrinkDirtyOuncesOfWater,Ounces of Dirty Water
+jz_DrinkDirtyOuncesOfWaterDesc,"This water is dirty and unsafe to drink. Doing so may cause illness." 
+jz_DrinkDrityDrinkOfWater,Drink of Dirty Water
+jz_DrinkDrityDrinkOfWaterDesc,"This water is dirty and unsafe to drink. Doing so may cause illness but some time you have to roll the dice."  
+jz_DrinkCleanOuncesOfWater,Ounces of Clean Water
+jz_DrinkCleanOuncesOfWaterDesc,"This water is clean and safe to drink and cook with."
+jz_DrinkCleanDrinkOfWater,Clean Drink of Water
+jz_DrinkCleanDrinkOfWaterDesc,Clean drink of water
+qc_ProfessionGroupDesc,Contains your Profession Items and Quest
+qc_Doctor,Doctors Quest
+qc_Carpenter,Carpenter Quest
+qc_Cop,Cop Quest
+qc_Soldier,Soldier Quest
+qc_Bouncer,Bouncer Quest
+qc_Chef,Chef Quest
+qc_FitnessInstructor,Fitness Instructor Quest
+qc_IronWorker,Metal Worker Quest
+qc_Electrician,Electrician Quest
+qc_Thief,Thief Quest
+qc_ParkRanger,Park Ranger Quest
+qc_Mechanic,Mechanic Quest
+qc_Fireman,Fireman Quest
+qc_Chemist,Chemist Quest
+qc_Mason,Mason Quest
+jz_FiberRope,Fiber Rope
+fiberRopeDesc,Rope made from natural fibers
+jz_CraftedRevolver,Crafted Revolver
+jz_CraftedFirearmDesc,"A roughly crafted Firearm made from manufactured and handmade parts"
+jz_CraftedRifle,Crafted Rifle
+jz_BlunderbussDouble
+BlunderbussDoubleDesc
+CraftedGunPartsDesc,A handcrafted firearm part
+jz_PartsCraftedRifleReceiver,Crafted Rifle Receiver
+jz_PartsCraftedRifleStock,Crafted Rifle Stock
+jz_PartsOldRifleBarrel,Old Rifle Barrel
+jz_PartsCraftedRevolverStock,Crafted Revolver Stock
+jz_PartsCraftedRevolverBarrel,Crafted Revolver Barrel
+jz_PartsOldRevolverCylinder,Old Revolver Cylinder
+RevolverPartsDesc,Weapon part removed from a Old Revolver
+WoodenBowPartsDesc,This part is needed to craft a Wooden Bow
+jz_PartsWoodenBowHandle,Wooden Bow Handle
+jz_PartsWoodenBowCams,Wooden Bow Cams
+jz_PartsWoodenBowCord,Wooden Bow Cord
+CrossbowPartsDesc,This part is needed to craft a Crossbow
+jz_PartsCrossbowStock,Crossbow Stock
+jz_PartsCrossbowLimb,CrossbowLimb
+jz_PartsCrossbowReciver,CrossbowReciver
+CompoundBowPartsDesc,This part is needed to craft a Compound Bow
+jz_PartsCompoundBowHandle,Compound Bow Handle
+jz_PartsCompoundBowCams,Compound Bow Cams
+jz_PartsCompoundBowCord,Compound Bow Cord
+CompoundCrossbowPartsDesc,This part is needed to craft a Compound Crossbow
+jz_PartsCompoundCrossbowStock,Compound Crossbow Stock
+jz_PartsCompoundCrossbowCord,Compound Crossbow Cord
+jz_PartsCompoundCrossbowCams,Compound Crossbow Cams
+PistolPartsDesc,This part is needed to craft a Pistol
+jz_PartsPistolBarrel,Pistol Barrel
+jz_PartsPistolFrame,Pistol Frame
+jz_PartsPistolGrip,Pistol Grip
+PumpShotgunPartsDesc,This part is needed to craft a Pump Shotgun
+jz_PartsPumpShotgunBarrel,Pump Shotgun Barrel
+jz_PartsPumpShotgunReciver,Pump Shotgun Reciver
+jz_PartsPumpShotgunStock,Pump Shotgun Stock
+DoubleBarrelPartsDesc,This part is needed to craft a Double Barrel Shotgun
+jz_PartsDoubleBarrelReceiver,Double Barrel Receiver
+jz_PartsDoubleBarrelStock,Double Barrel Stock
+jz_PartsDoubleBarrelBarrel,Double Barrel Barrel
+HuntingRiflePartsDesc,This part is needed to craft a Hunting Rifle
+jz_PartsHuntingRifleBarrel,Hunting Rifle Barrel
+jz_PartsHuntingRifleStock,Hunting Rifle Stock
+jz_PartsHuntingRifleReceiver,Hunting Rifle Receiver
+MagnumPartsDesc,This part is needed to craft a Magnum
+jz_Parts44MagnumCylinder,44 Magnum Cylinder
+jz_Parts44MagnumFrame,44 Magnum Frame
+jz_Parts44MagnumGrip,44 Magnum Grip
+SMG5PartsDesc,This part is needed to craft a SMG5
+jz_PartsSMG5Barrel,SMG5 Barrel
+jz_PartsSMG5Receiver,SMG5 Receiver
+jz_PartsSMG5Grip,SMG5 Grip
+AR15PartsDesc,This part is needed to craft a AR15
+jz_PartsARBarrel,AR15 Barrel
+jz_PartsARReceiver,AR15 Receiver
+jz_PartsARStock,AR15 Stock
+AK47PartsDesc,This part is needed to craft a AK47
+jz_PartsAK47Stock,AK47 Stock
+jz_PartsAK47Receiver,AK47 Receiver
+jz_PartsAK47Barrel,AK47 Barrel
+SniperPartsDesc,This part is needed to craft a Sniper
+jz_PartsSniperRifleBarrel,Sniper Rifle Barrel
+jz_PartsSniperRifleStock,Sniper Rifle Stock
+jz_PartsSniperRifleReceiver,Sniper Rifle Receiver
+M60PartsDesc,This part is needed to craft a M60
+jz_PartsM60Barrel,M60 Barrel
+jz_PartsM60Stock,M60 Stock
+jz_PartsM60Receiver,M60 Receiver
+RocketLauncherPartsDesc,This part is needed to craft a Rocket Launcher
+jz_PartsRocketLauncherBarrel,Rocket Launcher Barrel
+jz_PartsRocketLauncherStock,Rocket Launcher Stock
+jz_PartsRocketLauncherParts,Rocket Launcher Parts
+BasicGunPartsDesc,Simple parts that can be used to craft basic Firearms
+jz_BasicGunParts,Basic Gun Parts
+MilitaryGunPartsDesc,High grade parts that can be used to craft Advanced Firearms
+jz_MilitaryGunParts,Military Gun Parts
+oldRevolverDesc,"A old rusty Revolver thats barely able to shoot still. Theres no way to repair it but it can be used for parts"
+jz_OldRevolver,Old Revolver
+oldRifleDesc,"A old rusty Hunting Rifle thats barely able to shoot still. Theres no way to repair it but it can be used for parts"
+jz_OldRifle,Old Hunting Rifle
+steakKnifeDesc,A Basic Steak Knife
+jz_SteakKnife,Steak Knife
+jz_OldKnifeDesc,"A old rusty Knife, there is no repairing this thing."
+jz_OldKnife,Old Knife
+jz_ChefKnifeDesc,"A sharp Chef's knife"
+jz_ChefKnife,Chef's Knife
+OldAxeDesc,"A old rusty Axe, there is no repairing this thing."
+jz_OldAxe,Old Axe
+fryingPanDesc,"A simple iron Frying Pan. Can be used to cook with or to bash a head or two" 
+jz_FryingPan,Frying Pan
+screwdriverDesc,"A well made Screwdriver for disassembling electronics and as a tool to craft items."
+jz_Screwdriver,Screwdriver
+jz_MasonHammerDesc,"A Mason Hammer used for disassembling Brick and Flagstone Blocks and upgrade and repair them."
+jz_MasonHammer,Mason Hammer
+jz_ConcreteSledgeDesc,"A Concrete Sledge Hammer used for disassembling Concrete Blocks and upgrade and repair them."
+jz_ConcreteSledge,Concrete Sledge Hammer
+welderToolDesc,"A Welding tool used for disassembling Steel Blocks and upgrade and repair them."
+jz_WelderTool,Welder Tool
+jz_LargeEngine,Large Engine
+jz_LargeEngineDesc,A full size vehicle engine
+jz_SchematicLargeEngine,Engine Crafting Guild
+jz_SchematicLargeEngineDesc,"This book completely details how to assemble a vehicles engine from its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicSteelShovel,Steel Shovel Crafting Guide
+jz_SchematicSteelShovelDesc,"This book completely details how to craft and assemble a Steel Shovel and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicSteelFireaxe,Steel Fireaxe Crafting Guide
+jz_SchematicSteelFireaxeDesc,"This book completely details how to craft and assemble a Steel Fireaxe and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicSteelPickaxe,Steel Pickaxe Crafting Guide
+jz_SchematicSteelPickaxeDesc,"This book completely details how to craft and assemble a Steel Pickaxe and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicClawHammer,Claw Hammer Crafting Guide
+jz_SchematicClawHammerDesc,"This book completely details how to craft and assemble a Claw Hammer and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicIronShovel,Iron Shovel Crafting Guide
+jz_SchematicIronShovelDesc,"This book completely details how to craft and assemble a Iron Shovel and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicIronFireaxe,Iron Fireaxe Crafting Guide
+jz_SchematicIronFireaxeDesc,"This book completely details how to craft and assemble a Iron Fireaxe and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicIronPickaxe,Iron Pickaxe Crafting Guide
+jz_SchematicIronPickaxeDesc,"This book completely details how to craft and assemble a Iron Pickaxe and its parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicCraftedRifle,Makeshift Rifle Crafting Guide
+jz_SchematicCraftedRifleDesc,"This book details how to assemble a Makeshift Rifle and how to craft some of the needed parts. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicCraftedRevolver,Makeshift Revolver Crafting Guide
+jz_SchematicCraftedRevolverDesc,"This book details how to assemble a Makeshift Revolver and how to craft some of the needed parts. If you know this recipe you can scrap it for Skill Paper."
+jz_FoodSchematicDesc,"An battered old Cook Book. Looks like only one recipe is still readable. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicBrainShnitzel,Brain Schnitzel Recipe
+jz_SchematicCarrotCake,Carrot Cake Recipe
+jz_SchematicApplePie,Apple Pie Recipe
+jz_SchematicHealthyMeals,Health Meals Recipe
+jz_SchematicWellnessJuice,Wellness Juice Recipe
+jz_SchematicGrainAlcohol,Grain Alcohol Recipe
+jz_SchematicGoodMeals,Good Meals Recipe
+jz_SchematicMead,Mead Recipe
+jz_SchematicBread,Bred Recipe
+jz_SchematicFriedEggOmelet,Fried Omelet Recipe
+jz_SchematicGlazedMeats,Glazed Meats Recipe
+jz_SchematicMeatPies,Meat Pies Recipe
+jz_SchematicKabobs,Kabobs Recipe
+jz_SchematicBlunderbuss,Blunderbuss Schematic
+jz_SchematicBlunderbussDesc,"This book details how to assemble a Makeshift Blunderbuss. If you know this recipe you can scrap it for Skill Paper."
+jz_SchematicMolotovCocktail,Molotov Cocktail Schematic
+jz_SchematicMolotovCocktailDesc,"This book details how to assemble a Molotov Cocktail. If you know this recipe you can scrap it for Skill Paper."
+jz_GlassJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Broken Glass."
+jz_GlassBong,Glass Bong
+jz_GlassEye,Glass Eye
+jz_GlassFrame,Picture Frame
+jz_GlassCompact,Compact
+jz_GlassPerfume,Perfume Bottle
+jz_SteelJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Scrap Steel."
+jz_SteelButterKnife,Butter Knife
+jz_SteelSpoon,Spoon
+jz_SteelFork,Fork
+jz_SteelDogBowl,Dog Bowl
+jz_SteelBracelet,Bracelet 
+jz_SteelHinge,Hinge
+jz_RubberJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Scrap Steel."
+jz_RubberOldRainBoot,Old Rain Boot
+jz_RubberCondom,Condom
+jz_RubberBands,Rubber Bands
+jz_RubberChicken,Rubber Chicken
+jz_RubberDuck,Rubber Duck
+jz_RubberDoll,Old Doll
+jz_MechanicalJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Mechanical Parts."
+jz_MechanicalTypeWriter,Type Writer
+jz_MechanicalOldWatch,Old Watch
+jz_MechanicalKeyPad,Broken Key Pad
+jz_ElectricJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Electronic Parts."
+jz_ElectricBlender,Blender
+jz_ElectricBlackVibrator,Black Vibrator
+jz_ElectricToaster,Old Toaster
+jz_ElectricToyMotor,Broken Toy Motor
+jz_ElectricShaver,Electric Shaver
+jz_TechJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Tech Parts."
+jz_TechBrokenLapTop,Broken Laptop
+jz_TechBrokenIPad,Broken IPad
+jz_TechBrokenIPod,Broken IPod
+jz_TechClockRadio,Clock Radio
+jz_TechCellPhone,Busted Cell Phone
+jz_Tech3ds,Cracked 3DS
+jz_PlasticJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Plastic Scraps."
+jz_PlasticLighter,Lighter
+jz_PlasticShoppingBag,Shopping Bag
+jz_PlasticKite,Kite
+jz_PlasticFrisbee,Frisbee
+jz_PlasticToothBrush,Tooth Brush
+jz_PlasticHairBrush,Hair Brush
+jz_PlasticLegos,Legos
+jz_PlasticSoldier,Toy Soldier
+jz_PlasticCds,"Old CD's"
+jz_ClothJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Cloth."
+jz_ClothChewedDogCollar,Broken Dog Collar
+jz_ClothOldShoe,Holey Shoe
+jz_ClothOldBlanket,Torn Blanket
+jz_ClothRug,Old Rug
+jz_ClothRags,Dirty Rags
+jz_ClothTeddyBear,Worn Teddy Bear
+jz_PaperJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Paper."
+jz_PaperMatches,Matches
+jz_PaperGoggles,3D Glasses
+jz_PaperToilet,Toilet Paper
+jz_PaperNews,Old New Paper
+jz_PaperPlayingCards,Playing Cards
+jz_WoodJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Sticks."
+jz_WoodYoyo,Yoyo
+jz_WoodBranchDesc,"Good strong tree branch. A primitive tool cold be made with this or if you cant find a use for it you can scrap it for Sticks."
+jz_WoodBranch,Tree Branch
+jz_WoodSpoon,Spoon
+jz_WoodWhistle,Whistle
+jz_WoodSoldier,Toy Soldier
+jz_StoneJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Stones."
+jz_StoneCrackedAshTray,Cracked Ash Tray
+jz_StoneStatue,Small Statue
+jz_StonePaperWeight,Paper Weight
+jz_StonePlate,Chipped Plate
+jz_BrassJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Scrap Brass."
+jz_BrassCowBell,Cow Bell
+jz_BrassMonkey,Toy Monkey
+jz_BrassHinge,Hinge
+jz_LeadJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Scrap Lead."
+jz_LeadSoldier,Toy Soldier
+jz_LeadSolder,Welding Solder
+jz_LeadMusketBalls,Musket Balls
+jz_IronJunkDesc,"Old junk. If you cant find a use for it you can scrap it for Scrap Iron."
+jz_IronHairSpray,Hairy Spray Can
+jz_IronHinge,Hinge
+jz_IronWeight,Weights
+jz_IronPaperClips,Paper Clips
+jz_IronSoldier,Toy Soldier
+jz_IronScissors,Scissors
+jz_HoneyCombDesc,"A fresh section of honeycomb dripping with honey."
+jz_HoneyComb,Honeycomb
+jz_PaperBookDesc,"An old ragged book with unreadable pages."
+jz_PaperBook,Old Book
+plankDesc,"A cut plank of wood."
+jz_Plank,Plank
+ironSledgeHeadDesc,"A Sledge Hammer Head made from Iron."
+jz_SledgeHead,Iron Sledge Hammer Head
+handSawDesc,"A Rusty old Handsaw"
+jz_HandSaw,Handsaw
+jz_SteelOreDesc,"Raw Steel Ore. Must be processed in a Steel Forge."
+jz_SteelOre,Steel Ore
+jz_CharcoalDesc,"Dusty old bag of Grilling Charcoal."
+jz_Charcoal,Charcoal
+jz_MoldyVeggiesDesc,"Old Rotten Vegetables. Not much use but can be scraped to Biomass and used in Farming."
+jz_MoldyVeggies,Moldy Veggies
+jz_MoldyFruitDesc,"Old Rotten Fruit. Not much use but can be scraped to Biomass and used in Farming."
+jz_MoldyFruit,Moldy Fruit
+jz_ScrapWireDesc,"Small length of usable Copper wiring"
+jz_ScrapWire,Scrap Wire
+fireWoodDesc,"Dry cut Fire Wood treated with oils to burn much longer than normal wood."
+jz_FireWood,Fire Wood
+jz_WheatDesc,"Dry Wheat Stocks. Not edible in this form but can be ground into Flour."
+jz_Wheat,Wheat
+jointDesc,"A tightly rolled Cigarette with the sweet smell of Cannabis. Use with Caution!"   
+jz_Joint,Joint
+jz_HammerHeadDesc,"Hammer Head that can be used to craft the tool"
+jz_HammerHead,Claw Hammer Head
+jz_SteelShovelHeadDesc,"Steel Shovel Head that can be used to craft the tool"
+jz_SteelShovelHead,Steel Shovel Head
+jz_SteelFireaxeHeadDesc,"Steel Fireaxe Head that can be used to craft the tool"
+jz_SteelFireaxeHead,Steel Fireaxe Head
+jz_SteelPickaxeHeadDesc,"Steel Pickaxe Head that can be used to craft the tool"
+jz_SteelPickaxeHead,Steel Pickaxe Head
+jz_IronShovelHeadDesc,"Iron Shovel Head that can be used to craft the tool"
+jz_IronShovelHead,Iron Shovel Head
+jz_IronFireaxeHeadDesc,"Iron Fireaxe Head that can be used to craft the tool"
+jz_IronFireaxeHead,Iron Fireaxe Head
+jz_IronPickaxeHeadDesc,"Iron Pickaxe Head that can be used to craft the tool"
+jz_IronPickaxeHead,Iron Pickaxe Head
+jz_LargeKnifeBladeDesc,"Machete Blade that can be used to craft the tool"
+jz_LargeKnifeBlade,Machete Blade
+jz_SmallKnifeBladeDesc,"Hunting Blade that can be used to craft the tool"
+jz_SmallKnifeBlade,HuntingKnife Blade
+jz_SharpeningStoneDesc,"A manufactured stone for sharpening blades" 
+jz_SharpeningStone,Sharpening Stone
+jz_NitroglycerinDesc,"A highly unstable liquid that is used to make high grade explosives."
+jz_Nitroglycerin,Nitroglycerin
+hoofDesc,"Freshly removed foot of a hoofed animal"
+jz_Hoof,Hoof
+CuredSinewDesc,"A animal sinew that has been processed to make it a very strong string"
+jz_CuredSinew,Cured Sinew
+bowStringDesc,"A strong cord used to string a Bow or Crossbow"
+jz_BowString,Bow String
+boneMealDesc,"Finely ground bones"
+jz_BoneMeal,Bone Meal
+sinewDesc,"A carefully harvested tendon from a fresh dead animal."
+jz_Sinew,Sinew
+jz_AnimalBladderDesc,"A unpunctured animal bladder harvested from a fresh dead animal."
+jz_AnimalBladder,Animal Bladder
+jz_LightBulbDesc,"A un broken light buld"
+jz_LightBulb,Light Bulb
+nutAndBoltDesc,"A threaded nut and bolt that can be used to craft many things."
+jz_NutAndBolt,"Nut & Bolt"
+zincPowderDesc
+jz_ZincPowder,Zinc Powder
+fiberRopeDesc,"A cord made of natural fibers"
+jz_FiberRope,Fiber Cordage
+leatherNeedleDesc,"A leather needle strong enough to pierce the toughest hide"
+jz_LeatherNeedle,Leather Needle
+sewingNeedleDesc"A old sewing needle still in usable condition"
+jz_SewingNeedle,Sewing Needle
+airCompressorDesc,"A Old Air Compressor. Should be useful for something if not it can be scraped for Mechanical Parts"
+jz_AirCompressor,Air Compressor
+jz_BricksDesc,"Solid bricks for crafting structures"
+jz_Bricks,Bricks
+blankSkillBookDesc,"A blank Skill Book needed to research a unknown crafting recipe."
+jz_BlankSkillBook,Blank Skill Book
+incendiaryPowderDesc,"A needed ingredient for crafting incendiary ammunition"
+jz_IncendiaryPowder,Incendiary Powder
+mixedChemicalsDesc
+jz_MixedChemicals,Mixed Chemicals
+meltedRubberDesc,"Rubber thats been melted down to be more pliable for crafting."
+jz_MeltedRubber,Melted Rubber
+gunOilDesc,"Specialty Oil needed to clean and maintain firearms" 
+jz_GunOil,Gun Oil
+weaponRepairKitDesc,"Everything needed to clean and repair a firearm."
+jz_WeaponRepairKit,Weapon Repair Kit
+inkPenDesc,"A working ink pen needed to research a unknown crafting recipe."
+jz_InkPen,Ink Pen
+jz_DriedTobaccoDesc
+jz_DriedTobacco,Dried Tobacco
+ScavengedPartsDesc,"Scavenged parts and supplies that can be used to repair vehicles."
+jz_ScavengedParts,Scavenged Parts
+steelPipeDesc,"A solid steel pipe used in many crafting recipes"
+jz_SteelPipe,Steel Pipe
+jz_SkillPaperDesc,"Collect Skill Paper by scraping unneeded schematics. Needed to research a unknown crafting recipe."
+jz_SkillPaper,Skill Paper
+bioMassDesc,Decomposing organic rubbish that can be used in farming."
+jz_BioMass,Bio Mass
+scrapRubberDesc,"Scraps of rubber material"
+jz_ScrapRubber,Scrap Rubber
+curedLeatherDesc,"Animal Hide that has been processed in to usable leather material. Must be dried before using."
+jz_CuredLeather,Cured Leather
+jz_BrainMatterDesc,"Chunky hunks of fresh brain matter. Ewwwwww!"
+jz_BrainMatter,Brain Matter
+jz_AnimalHideDesc,"Animal Hide freshly skinned from a dead animal. Must be processed before it decays."
+jz_AnimalHide,Animal Hide
+stickDesc,"Scrap of wood'
+jz_Stick,Stick
+jz_GunToolsDesc,"Tools needed craft and improve firearms."
+jz_GunTools,Gun Tools
+jz_PartsChainsawHousingDesc,"The housing case for a Chainsaw. This part is needed to craft a Chainsaw."
+jz_PartsChainsawHousing,Chainsaw Housing
+jz_PartsChainsawBladeDesc,"The chain blade for a Chainsaw. This part is needed to craft a Chainsaw."
+jz_PartsChainsawBlade,Chainsaw Blade
+jz_PartsAugerHousingDesc,"The housing case for a Auger. This part is needed to craft a Auger."
+jz_PartsAugerHousing,Auger Housing
+jz_PartsAugerBitDesc,"The drill bit for a Auger. This part is needed to craft a Auger."
+jz_PartsAugerBit,Auger Bit
+jz_BulletPressDesc,"A machine that allows the manual assembling of ammunition."
+jz_BulletPress,Bullet Press
+jz_LabEquipmentDesc,"All the Equipment needed for complex chemical manufacturing."
+jz_LabEquipment,LabEquipment
+jz_StillDesc,"A Copper Pot Still used to refine liquors."
+jz_Still,Copper Still
+jz_SmallLoomDesc,"A small loom capable of creating cloth fabric from raw cotton."
+jz_SmallLoom,Small Loom
+jz_BikeWheelsDesc,"A bike tire that is still in reasonable shape, it should still be usable."
+jz_BikeWheels,Bike Tire
+jz_MinibikeSeatDesc,"A padded seat for the Minibike."
+jz_MinibikeSeat,Minibike Seat
+jz_ClosedCanFoodDesc,"A sealed food can. If only you had a Can Opener"
+jz_CanLamb,Can of Lamb
+jz_CanCatfood,Can of Cat Food
+jz_CanDogfood,Can of Dog Food
+jz_CanChili,Can of Chili
+jz_CanTuna,Can of Tuna
+jz_CanSham,Can of Sham
+jz_CanPasta,Can of Pasta
+jz_CanSalmon,Can of Salmon
+jz_CanMiso,Can of Miso
+jz_CanPeas,Can of Peas
+jz_CanPears,Can of Pears
+jz_CanSoup,Can of Soup
+jz_CanStock,Can of Stock
+jz_CanOpenerDesc,"A working Can Opener. If only you had some can food."
+jz_CanOpener,Can Opener
+jz_MoldDDesc,"A clay mold used to craft the given item."
+jz_MoldDart,Dart Mold
+jz_MoldLargeEngineBlock,Lg Engine Block Mold
+jz_MoldSmallEngineBlock,Sm Engine Block Mold
+jz_MoldAxeHead,Axe Head Mold
+jz_MoldBrassKnuckles,Brass Knuckle Mold
+jz_MoldShovelHead,Shovel Head Mold
+jz_MoldSledgeHead,Sledge Head Mold
+jz_MoldScrewdriverHead,Screwdriver Head Mold
+jz_MoldWrench,Wrench Mold
+jz_MoldHammerHead,Hammer Head Mold
+jz_MoldLargeKnifeBlade,Lg Knife Blade Mold
+jz_MoldSmallKnifeBlade,Sm Knife Blade Mold
+jz_MoldPickAxeHead,Pickaxe Head Mold
+jz_MoldCrowbar,Crowbar Mold
+fanBeltDesc,"A old fan belt from a some kind of engine."
+jz_FanBelt,Fan Belt
+alternatorDesc,"A Alternator that hasn't sized up yet. Might still be usable."
+jz_Alternator,Alternator
+jz_PartLargeExhaustDesc,"Long pipes used for exhaust on vehicles."
+jz_PartLargeExhaust,Lg Exhaust
+jz_PartSmallExhaustDesc,"Short pipes used for exhaust on Bikes."
+jz_PartSmallExhaust,Sm Exhaust
+jz_PartLargeEngineBlockDesc,"The engine block from a vehicles engine."
+jz_PartLargeEngineBlock,Lg Engine Block
+jz_PartSmallEngineBlockDesc,"The engine block from a bikes engine."
+jz_PartSmallEngineBlock,Sm Engine Block
+scubaTankEmptyDesc,"An empty Scuba Tank. If it could be filled it could be used for underwater breathing."
+jz_ScubaTankEmpty,Scuba Tank Empty
+scubaTankFullDesc,"A full Scuba Tank. Can be used for underwater breathing."
+jz_ScubaTankFull,Scuba Tank Full
+jz_MeatPiesDesc,"A meat pie with flaky crust"
+jz_FoodMeatPieLarge,Large Meat Pie
+jz_FoodMeatPieMedium,Medium Meat Pie
+jz_FoodMeatPieSmall,Small Meat Pie
+jz_SandwichDesc,"A freshly made sandwich."
+jz_FoodTunaSandwich,Tuna Sandwich
+jz_FoodSalmonSandwich,Salmon Sandwich
+ratOnAStickDesc,"A nicely charred protein meal. Just keep telling your self that and eat it."
+jz_FoodRatOnAStick,Rat on a Stick
+fruitCakeDesc,"Only 2 things survived the apocalypse, Roaches and Fruit Cake."
+jz_FoodFruitCake,Fruit Cake
+MREDesc,"Old military rations. Only slightly radiated."
+jz_FoodMRELarge,Large MRE
+jz_FoodMREMedium,Medium MRE
+jz_FoodMRESmall,Small MRE
+jz_FoodOatMealDesc,"Dry pack of instant Oatmeal. Looks still edible."
+jz_FoodOatMeal,Instant Oatmeal
+jz_FoodPeanutButterDesc,"Creamy roasted peanut butter."
+jz_FoodPeanutButter,Peanut Butter
+deadRatDesc,"A plump dead rat."
+jz_FoodDeadRat,Dead Rat
+jz_FoodChipsDesc,"A unopened bag of Potato Chips. Yummy!"
+jz_FoodChips,Potato Chips
+jz_FoodCerealDesc,"A box of breakfast cereal. Only a little stale."
+jz_FoodCereal,Cereal
+canUnlabeledDesc,"A old dented can thats label been torn off. You cant be certain whats in it but theres only one way to find out."
+jz_FoodCanUnlabeled,Unlabeled Can
+jz_FoodStrawberryDesc,"A fresh Strawberry."
+jz_FoodStrawberry,Strawberry
+jz_KabobDesc,"Meat and Vegetables roasted on a stick"
+jz_FoodKabobLarge,Large Kabob
+jz_FoodKabobMedium,Medium Kabob
+jz_FoodKabobSmall,Small Kabob
+jz_GlazedMeatDesc,"Juicy meat glazed with fresh fruit and cook to perfection."
+jz_FoodGlazedMeatLarge,Large Glazed Meat
+jz_FoodGlazedMeatMedium,Medium Glazed Meat
+jz_FoodGlazedMeatSmall,Small Glazed Meat
+jz_HealthyMealDesc,"A well balanced meal with all the vitamins needed to stay strong and healthy."
+jz_FoodHealthyMealLarge,Large Healthy Meal
+jz_FoodHealthyMealMedium,Medium Healthy Meal
+jz_GoodMealDesc,"A good meal with many needed vitamins."
+jz_FoodGoodMealLargeVF,Lg Good Meal VF
+jz_FoodGoodMealLargeVG,Lg Good Meal VG
+jz_FoodGoodMealLargeFG,Lg Good Meal FG
+jz_FoodGoodMealMediumVF,Med Good Meal VF
+jz_FoodGoodMealMediumVG,Med Good Meal VG
+jz_FoodGoodMealMediumFG,Med Good Meal FG
+jz_FoodBoiledSandwich,Boiled Sandwich
+jz_FoodGrilledSandwich,Grilled Sandwich
+jz_FoodCharredSandwich,Charred Sandwich
+veggieSaladDesc,"A health salad made up of fresh vegetables."
+jz_FoodVeggieSaladLarge,Lg Veggie Salad
+jz_FoodVeggieSaladMedium,Med Veggie Salad
+jz_FoodVeggieSaladSmall,Small Veggie Salad
+fruitSaladDesc,"A health salad made up of fresh vegetables."
+jz_FoodFruitSaladLarge,Lg Fruit Salad
+jz_FoodFruitSaladMedium,Med Fruit Salad
+jz_FoodFruitSaladSmall,Small Fruit Salad
+jz_DrinkMeadDesc,"A alcoholic beverage made from fermenting honey"
+jz_DrinkMead,Mead
+jz_medicalBandageDesc,"A simple bandage that can be used to stop [f21b10]Bleeding[-] and treat a [f21b10]Small Wound[-]"
+jz_medicalFirstAidBandageDesc,"A first aid kit that can be used to stop [f21b10]Bleeding[-], treat a [f21b10]Small Wound[-] a [f21b10]Wound[-] a [f21b10]Severe Wound[-] and a [f21b10]Infected Wound[-]."
+sanitizingBandageDesc,"A bandage and antiseptic that can be used to stop [f21b10]Bleeding[-], treat a [f21b10]Small Wound[-], a [f21b10]Wound[-] and a [f21b10]Severe Wound[-]"
+jz_MedicalSanitizingBandage,Sanitizing Bandage
+jz_medicalFirstAidKitSchematic,"An Emergency Medical kit that can be used to stop [f21b10]Bleeding[-], treat a [f21b10]Small Wound[-], a [f21b10]Wound[-], a [f21b10]Sever Wound[-] and a [f21b10]Infected Wound[-]"
+redHotDesc,"A burning red hot pipe that can be used to cauterize a [f21b10]Zombie Bite[-] or [f21b10]Puncher Wound[-]"
+jz_MedicalRedHotSteelPipe,Red Hot Pipe
+jz_MedicalRedHotPipe,Red Hot Pipe
+antiVenomDesc,"Anti venom used to treat venomous stings and bites"
+jz_MedicalAntiVenom,Anti Venom
+jz_drugPainkillersDesc,"Commercially made painkillers good for [f21b10]Pain[-] and [f21b10]Swelling[-]"
+sutureKitDesc,"A clean needle and organic thread can be used to stitch up [f21b10]Gashes[-]"
+jz_MedicalSutureKit,Suture Kit
+drugPainkillersDesc,"A common painkiller that can be used to relieve [f21b10]Pain[-]"
+jz_meleeClubBaseballBatDesc,"This club was used in gladiatorial games of the past that were held in huge arenas."
+jz_gunBowPrimitiveDesc"Good for hunting and killing zombies. Uses arrows for ammunition.\nHold reload to use alternate ammo."
+jz_FoodCanBeefCooked,Can Beef Cooked
+jz_FoodCanChickenCooked,Can Chicken Cooked
+jz_FoodCanLambCooked,Can Lamb Cooked
+jz_FoodCanCatfoodCooked,Can Cat Food Cooked
+jz_FoodCanDogfoodCooked,Can Dog Food Cooked
+jz_FoodCanChiliCooked,Can Chili Cooked
+jz_FoodCanTunaCooked,Can Tuna Cooked
+jz_FoodCanShamCooked,Can Sham Cooked
+jz_FoodCanPastaCooked,Can Pasta Cooked
+jz_FoodCanSalmonCooked,Can Salmon Cooked
+jz_FoodCanMisoCooked,Can Miso Cooked
+jz_FoodCanPeasCooked,Can Peas Cooked
+jz_FoodCanPearsCooked,Can Pears Cooked
+jz_FoodCanSoupCooked,Can Soup Cooked
+jz_FoodCanStockCooked,Can Stock Cooked
+flagstoneBlockVariantHelper,Flagstone Frame Block
+jz_QIDeadWalkieTalkieDesc,"A commercial Walkie Talkie, doesn't have very much range and this one is dead"
+jz_QIDeadWalkieTalkie"Walkie Talkie"
+jz_QIGoodWalkieTalkieDesc,"A commercial Walkie Talkie, doesn't have very much range but at lest it has some juice."
+jz_QIGoodWalkieTalkie,"Walkie Talkie"
+jz_CBatterie,"C Battery"
+jz_CBatterieDesc,"A C type battery used to power many things"
+jz_drugVitaminsDesc,"Vitamins do not cure illnesses instead they supply you wilth a bost of daily vitamins to maintain your diet and increase your wellness."
+PROGRESSION_________________________XML,PROGRESSION_________________________XML
+jz_ActionSkillDesc,"Improve these skills by using or killing with the given skill item. You can also purchase these points to improve"
+jz_CraftingSkillsDesc,"Improve these skills by crafting the stated item"
+jz_ProfessionsDesc,"These are the Professions a Survivor could of had before the event. Use your starting Knowledge Points to purchase these or gather enough skill pages from loot to obtain them.
+jz_PosTraitsDesc,"These are traits that can be purchased at the start of the game with Knowledge Points to affect the player in a positive way"
+jz_NegativeTraitsDesc,"These are traits that can be purchased at the start of the game with Knowledge Points to affect the player in a negative way. Purchasing these will refund more Knowledge Points"
+jz_SchematicsDesc,"You can track all unlockable schematics here"
+jz_MiningSkillDesc,"Gain experience by breaking blocks with Pickaxes and Shovels to improve your use of them by 3% faster swing speed per Lv and 3% less stamina per use per Lv"
+jz_AxeSkillDesc,"Gain experience by breaking blocks with Axes to improve your use of them by 3% faster swing speed per Lv and 3% less stamina per use per Lv"
+jz_ChainsawSkillDesc,"Gain experience by breaking blocks with Chainsaw to improve your use of them by 3% faster swing speed per Lv and 3% less stamina per use per Lv"
+jz_AugerSkillDesc,"Gain experience by breaking blocks with Augers to improve your use of them by 3% faster swing speed per Lv and 3% less stamina per use per Lv"
+jz_UnarmedSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Brass Knuckles to improve your use of them by 3% more damage per Lv and 3% faster swing speed per Lv"
+jz_BluntSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while wielding Blunt Weapons to improve your use of them by 3% faster swing speed per Lv and 3% less stamina use per swing per Lv"
+jz_SledgeSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while wielding Sledge Hammer to improve your use of them by 3% faster swing speed per Lv and 3% less stamina use per swing per Lv"
+jz_BladeSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while wielding Bladed Weapons to improve your use of them by 3% faster swing speed per Lv and 3% less stamina use per swing per Lv"
+jz_ArcherySkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using a Bow or Crossbow to improve your use of them by 3% faster reload speed per Lv, 2% farther range per Lv and 3% better aiming and control per Lv"
+jz_SpearSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using a Spear to improve your use of them by 3% faster reload speed per Lv, 2% farther range per Lv and 3% better aiming and control per Lv"
+jz_PistolSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Handguns to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_44MagSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Shotguns to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_SMG5SkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Shotguns to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_BlunderbussSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_DBShotgunSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using DBShotgun to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_PShotgunSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv and 3% better aiming and control per Lv"
+jz_HuntingRifleSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_MarksmanSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_AK47SkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_M60SkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_ExposivesSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_JunkTurretSkillDesc,"Gain experience by hitting enemies and receive bonus xp for the killing blow while using Rifles to improve your use of them by 3% faster reload speed per Lv, 3% better aiming and control per Lv, 3% bonus dismemberment chance per Lv"
+jz_CraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_ClothArmorCraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_LeatherArmorCraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_ScrapArmorCraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_IronArmorCraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_SteelArmorCraftingDesc,"Craft more of this item to improve your ability to craft it at a better quality"
+jz_FireFighterDesc,"All the knowledge needed to become a Fire Fighter.\n20% Block Dmg w/Fireaxes\n+5% Max Stamina\nRecipes- Aloe Cream, Medical Bandage, Molotov Cocktail, Firemans Axe Mod"
+jz_PoliceOfficerDesc,"All the knowledge needed to become a Police Officer.\n10% Faster Reload & better Aim w/Pistol & Magnums\nRecipes- Pistol, Gun Oil, Stun Baton, Weapon Repair Kit"
+jz_ParkRangerDesc,"All the knowledge needed to become a Park Ranger.\n20% Faster Primitive Crafting\nRecipes- Herbal Antibiotics, Spear Iron, Spear Steel"
+jz_BouncerDesc,"All the knowledge needed to become a Bouncer.\n10% Less Stamina w/Brawling\nRecipes- Brass Knuckles Mold, Brass Knuckles, Leather Knuckles, Beer, Mead, Grain Alcohol"
+jz_ChefDesc,"All the knowledge needed to become a Chef.\n20% Faster Cooking\nRecipes- All Food Recipes"
+jz_BurglarDesc,"All the knowledge needed to become a Burglar.\n10% Faster Movement & Less Noise while Crouching\n20% Faster Looting & Pinpoint Treasure location\nRecipes- Lock Picks"
+jz_CarpenterDesc,"All the knowledge needed to become a Carpenter.\n20% Faster Crafting on the Workbench and Tablesaw\nRecipes- All Wooden Frame Shapes, Planks"
+jz_MasonDesc,"All the knowledge needed to become a Mason.\n20% Faster Crafting on the Cementmixer\nRecipes- All Brick and Flagstone Frame Shapes, Bricks, Cobblestone"
+jz_SoldierDesc,"All the knowledge needed to become a Soldier.\n10% Faster Reload & better Aim w/M60 & AK47\nRecipes- Grubs, Weapon Repair Kit, Blunderbuss, Blunderbuss, AK47, Pipe Bomb, Cooking Pot Mine"
+jz_FitnessInstructorDesc,"All the knowledge needed to become a Fitness Instructor.\n10% Faster Movment\n5% Less Stamina used while running\nRecipes- Golden Rod Tea, Red Tea, Mega Crush, Wellness Juice, Vitamins"
+jz_ElectricianDesc,"All the knowledge needed to become a Electrician.\n10% Faster Electrical Crafting\nRecipes- Generator Bank, Pressure Plate, Battery Bank, Ceiling Light, Timer Relay, Wire Relay, Motion Sensor, Speaker, Switch, Electric Fencepost, Spotlight, Stun Baton"
+jz_MetalWorkerDesc,"All the knowledge needed to become a Metal Worker.\nStart with a Wrench\n10% Faster Crafting on the Forge\nRecipes- All Scrap Iron Frame Shapes, Sheet Metal"
+jz_MechanicDesc,"All the knowledge needed to become a Mechanic.\nStart with a Wrench\n20% Faster Vehicle Crafting\nRecipes- Small Engine, Large Engine, All Vehicles"
+jz_DoctorDesc,"All the knowledge needed to become a Doctor.\n20% Faster Medical Crafting\nRecipes- Aloe Cream, First Aid Bandage, Stimulant, Suture Kit, AntiVenom, Painkillers, Steroids, Antibiotics"
+jz_FarmerDesc,"All the knowledge needed to become a Farmer.\n20% Faster Seed Crafting\nRecipes- All Plantable seeds"
+jz_ChemistDesc,"All the knowledge needed to become a Chemist.\nStarts with Painkillers and Stimulants\n20% Faster Chemistry Crafting\nRecipes- Mega Crush, Stimulant, Acid, Oil Shale, GunPowder, Purification Tablets"
+jz_TraitFastDriverDesc,"10% Higher max speed while driving all vehicles"
+jz_TraitWakefulDesc,"20% Faster Fatigue recovery"
+jz_TraitGracefulDesc,"10% less noise while moving"
+jz_TraitDexterousDesc,"10% Faster Crafting\n10% Faster Lock picking"
+jz_TraitIronGutDesc,"15% Less Chance to get food illness"
+jz_TraitOutdoorsmanDesc,"10% Less effect from weather"
+jz_TraitFitDesc,"5% Less Stamina used w/Melee\n5% Faster Stamina recovery\n5% Less Stamina used while Encumbered"
+jz_TraitThickSkinnedDesc,"10% Less chance to get Wounded from Attackers"
+jz_TraitGymnastDesc,"10% Less Stamina Jumping\n10% Farther safe fall distance\n10% Higher Jumping"
+jz_TraitMedicDesc,"20% More Healing from Medical Items"
+jz_TraitAmateurMechanicDesc,"20% More Resources from harvesting Vehicles\nRecipes- Bicycle, Mini Bike"
+jz_TraitHunterDesc,"Can track Deer and Pigs on mini map"
+jz_TraitRunnerDesc,"20% Less Stamina used while Running\n10% Faster Run Speed"
+jz_TraitStoutDesc,"10% Less Stamina used w/Melee\n10% Faster Stamina recovery\n10% Less Stamina used while Encumbered"
+jz_TraitSleepyDesc,"20% Slower Fatigue refill\n[f21b10]REFUNDS 2 Knowledge Points[-]
+jz_TraitClumsyDesc,"10% More Noise when Moving\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_TraitAllThumbsDesc,"10% Slower Crafting & Lock Picking\n[f21b10]REFUNDS 2 Knowledge Points[-]"
+jz_TraitWeakStomachDesc,"15% More chance to get food illnesses\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitAgoraphobicDesc,"When Outdoors\n10% more Stamina Loss w/Melee\n10% Slower Reloading & 10% Less Weapon Handling\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitClaustrophobicDesc,"When Indoors\n10% more Stamina Loss w/Melee\n10% Slower Reloading & 10% Less Weapon Handling\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitBadLegDesc,"Chance to trigger old leg injury when you jump or run\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitAsthmaticDesc,"20% More Stamina used\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitOutOfShapeDesc,"5% More Stamina used w/Melee\n5% More Stamina used while Encumbered\n[f21b10]REFUNDS 3 Knowledge Points[-]"
+jz_TraitSmokerDesc,"20% More Stamina used while Running\n10% Slower Run Speed\nSmoking Addiction\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_TraitHemophobicDesc,"20% Less Healing from Medical Items\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_TraitThinSkinnedDesc,"10% More chance to get Injured from Attackers\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_TraitWeakDesc,"10% More Stamina used w/Melee\n10% More Stamina used while Encumbered\n[f21b10]REFUNDS 4 Knowledge Points[-]"
+jz_WoodBuildingSkillDesc,"Gain xp by using the Claw Hammer to upgrade Wooden Frames\nGather materials by using the Claw Hammer to break down Wooden Blocks"
+jz_WoodBuildingSkillRank1Desc,"Shapes"
+jz_WoodBuildingSkillRank1LongDesc,"Teaches you how to craft all of the Wood Frame shapes"
+jz_WoodBuildingSkillRank2Desc,"Tool"
+jz_WoodBuildingSkillRank2LongDesc,"Teaches you how to craft a Claw Hammer"
+jz_WoodBuildingSkillRank3Desc,"Supplies"
+jz_WoodBuildingSkillRank3LongDesc,"Teaches you how to craft Planks"
+jz_StoneBuildingSkillDesc,"Gain xp by using the Mason Hammer to upgrade Flagstone and Brick Frames. Gather materials by using the Mason Hammer to break down Flagstone and Brick Blocks"
+jz_StoneBuildingSkillRank1Desc,"Shapes"
+jz_StoneBuildingSkillRank1LongDesc,"Teaches you how to craft all of the Flagstone and Brick Frame shapes"
+jz_StoneBuildingSkillRank2Desc,"Tool"
+jz_StoneBuildingSkillRank2LongDesc,"Teaches you how to craft a Mason Hammer"
+jz_StoneBuildingSkillRank3Desc,"Supplies"
+jz_StoneBuildingSkillRank3LongDesc,"Teaches you how to craft Cobblestone"
+jz_StoneBuildingSkillRank4Desc,"Supplies"
+jz_StoneBuildingSkillRank4LongDesc,"Teaches you how to craft Bricks"
+jz_IronBuildingSkillDesc,"Gain xp by using the Wrench to upgrade Scrap Iron Frames\nGather materials by using the Wrench to break down Scrap Iron Blocks"
+jz_IronBuildingSkillRank1Desc,"Shapes"
+jz_IronBuildingSkillRank1LongDesc,"Teaches you how to craft all of the Scrap Iron Frame shapes"
+jz_IronBuildingSkillRank2Desc,"Tool"
+jz_IronBuildingSkillRank2LongDesc,"Teaches you how to craft a Wrench"
+jz_IronBuildingSkillRank3Desc,"Supplies"
+jz_IronBuildingSkillRank3LongDesc,"Teaches you how to craft Iron Sheet Metal"
+jz_ConcreteBuildingSkillDesc,"Gain xp by using the Concrete Sledge to upgrade Concrete Frames\nGather materials by using the Concrete Sledge to break down Concrete Blocks"
+jz_ConcreteBuildingSkillRank1Desc,"Shapes"
+jz_ConcreteBuildingSkillRank1LongDesc,"Teaches you how to craft all of the Rebar Frame shapes"
+jz_ConcreteBuildingSkillRank2Desc,"Tool"
+jz_ConcreteBuildingSkillRank2LongDesc,"Teaches you how to craft a Concrete Sledge"
+jz_ConcreteBuildingSkillRank3Desc,"Supplies"
+jz_ConcreteBuildingSkillRank3LongDesc,"Teaches you how to craft Concrete Mix"
+jz_SteelBuildingSkillDesc,"Gain xp by using the Welder to upgrade Steel Frames\nGather materials by using the Welder to break down Steel Blocks"
+jz_SteelBuildingSkillRank1Desc,"Shapes"
+jz_SteelBuildingSkillRank1LongDesc,"Teaches you how to craft all of the Steel Frame shapes"
+jz_SteelBuildingSkillRank2Desc,"Tool"
+jz_SteelBuildingSkillRank2LongDesc,"Teaches you how to craft a Welder"
+jz_SteelBuildingSkillRank3Desc,"Supplies"
+jz_SteelBuildingSkillRank3LongDesc,"Teaches you how to craft Steel Sheet Metal"
+jz_SmallGameHunterRank1Desc,"Small Game Butcher"
+jz_SmallGameHunterRank1LongDesc,"Harvest twice as much meat and learn to harvest more advanced items from small game."
+jz_SmallGameHunterRank2Desc,"Small Game Hunter"
+jz_SmallGameHunterRank2LongDesc,"Harvest 3X as much meat and learn to harvest all items from small game."
+jz_SmallGameHunterRank3Desc,"Small Game Tracker"
+jz_SmallGameHunterRank3LongDesc,"Learn to track Small Game on your compass when crouched."
+jz_LargeGameHunterRank1Desc,"Large Game Butcher"
+jz_LargeGameHunterRank1LongDesc,"Harvest twice as much meat and learn to harvest more advanced items from small game."
+jz_LargeGameHunterRank2Desc,"Large Game Hunter"
+jz_LargeGameHunterRank2LongDesc,"Harvest 3X as much meat and learn to harvest all items from small game."
+jz_LargeGameHunterRank3Desc,"Large Game Tracker"
+jz_LargeGameHunterRank3LongDesc,"Learn to track Small Game on your compass when crouched."
+jz_SmallPredGameHunterRank1Desc,"Small Predator Butcher"
+jz_SmallPredGameHunterRank1LongDesc,"Harvest twice as much meat and learn to harvest more advanced items from small game."
+jz_SmallPredGameHunterRank2Desc,"Small Predator Hunter"
+jz_SmallPredGameHunterRank2LongDesc,"Harvest 3X as much meat and learn to harvest all items from small game."
+jz_SmallPredGameHunterRank3Desc,"Small Predator Tracker"
+jz_SmallPredGameHunterRank3LongDesc,"Learn to track Small Game on your compass when crouched."
+jz_LargePredGameHunterRank1Desc,"Large Predator Butcher"
+jz_LargePredGameHunterRank1LongDesc,"Harvest twice as much meat and learn to harvest more advanced items from small game."
+jz_LargePredGameHunterRank2Desc,"Large Predator Hunter"
+jz_LargePredGameHunterRank2LongDesc,"Harvest 3X as much meat and learn to harvest all items from small game."
+jz_LargePredGameHunterRank3Desc,"Large Predator Tracker"
+jz_LargePredGameHunterRank3LongDesc,"Learn to track Small Game on your compass when crouched."
+Quest_________________________XML,Quest_________________________XML
+tutorialTipQuest01_title,"True Survival"
+tutorialTipQuest01,"To begin place your 'Start Here' starting item on the ground to choose your characters stats and ability's for this play through. You will start with 5 Knowledge Points that can be used to craft Negative and Positive Traits, and Professions. Purchasing Negative traits will reward more Knowledge Points. Any combination can be chosen but these options do not stack. Positive Traits can also be purchased with Skill Points acquired during leveling and Professions can be acquired by collecting Profession Pages found in loot\nStarting Suggestion- Craft and read enough Negative Traits to acquire the amount of Knowledge Points you need for the Profession you want." 
+jzquest_Starting,Getting Started
+jzquest_StoryLinePt1,"1 Storyline Quest Pt1: The Get Away!"
+jzquest_StoryLinePt1Sub,"Set Up Camp"
+jzquest_StoryLinePt1Desc,"You barley made it out of there alive. Another camp torn to shreds by a unstoppable Horde. So many killed...so many screams... No time to dwell on it now, you were able to grab a Bug Out Bag but its not safe to go through it here, not if you want to live. Find or make a safe place to set up camp and go through your bag." 
+jzquest_StoryLinePt2,"1 Storyline Quest Pt2: Take a Breather"
+jzquest_StoryLinePt2Sub,"Find Your Walkie"
+jzquest_StoryLinePt2Desc,"Take a look and see if your Bug Out Bag has anything useful like a Walkie Talkie."
+jzquest_StoryLinePt3,"1 Storyline Quest Pt3: Back To Work"
+jzquest_StoryLinePt3Sub,"Find some Batteries"
+jzquest_StoryLinePt3Desc,"Well you found a Walkie but its dead. You will need to find some good C Batteries to get the Walkie working if you ever want to find any of the survivors from your camp."
+jzquest_StoryLinePt4,"1 Storyline Quest Pt4: Reaching Out"
+jzquest_StoryLinePt4Sub,"Walkie Communication"
+jzquest_StoryLinePt4Desc,"You snap the batteries in and it crackles to life. As you flip through the channels you start to hear conversation broken up by static. You speak into the Walkie and a familiar female voice answers back. You can't believe it, it's the Doctor from your camp! You tell her you got away ok and ask how she is doing. She explains while running from the camp she ran into a Military Convoy that was headed to the CDC Headquarters and they offered her safety. As you listen you begin to notice the connection is getting weak and relies that the convoy must be moving out of range of the Walkie's. You tell the Doc you are losing her signal and a man gets on the line and tells you of a Radio Station in the Forest the convoy passed named Z103.4 Nav Radio, it should have the equipment to turn your Walkie into a Sat Phone and extend its range. He the tells you that 88.7 is the frequency you can reach them at at the CDC." 
+jzquest_StoryLinePt5,"1 Storyline Quest Pt5: Finding a Station"
+jzquest_StoryLinePt5Sub,"Crafting a Sat Phone"
+jzquest_StoryLinePt5Desc,"Now that you have the parts travel back to your base camp and craft and place the Sat Phone." 
+jzquest_StoryLinePt6,"1 Storyline Quest Pt6: Going Home"
+jzquest_StoryLinePt6Sub,"Collecting Gear"
+jzquest_StoryLinePt6Desc,"You dial in the frequency the man gave you and try to reach the Doctor. She lets you know that they arrived safely at the CDC but as they were traveling they saw a large Horde thats about to pass the CDC and heading your way. She says that she saw something strange in the Horde but not sure what it was. The Doc says the CDC has sub levels and that everyone is going underground till the Horde passes. She's asked you to get some tissue samples from the strange creatures she saw moving with the Horde. To do so you will need the Tissue Extractor from her old Med Bay at your old camp. She tells you to contact her after you have the samples" 
+jzquest_StoryLinePt7,"1 Storyline Quest Pt7: A Pound of Flesh"
+jzquest_StoryLinePt7Sub,"Collecting and Testing Samples"
+jzquest_StoryLinePt7Desc,"Now that you have the Extractor use it on dead Mutated Creatures during the Bloodmoon to gather Mutated Tissue Samples for the Doctor" 
+jzquest_StoryLinePt8,"1 Storyline Quest Pt8: Reporting In"
+jzquest_StoryLinePt8Sub,"Report the results"
+jzquest_StoryLinePt8Desc,"Report your success to the Doc" 
+jzquest_StoryLinePt9,"1 Storyline Quest Pt9: The Hospital"
+jzquest_StoryLinePt9Sub,"Test the Samples"
+jzquest_StoryLinePt9Desc,"You let the Doctor know you have the samples and she explains to you how to test the samples in the local Hospitals Lab. Travel there and find the Laboratory to test the samples. Then report back your findings." 
+jzquest_StoryLinePt10,"1 Storyline Quest Pt10: Reporting In"
+jzquest_StoryLinePt10Sub,"Report the results"
+jzquest_StoryLinePt10Desc,"Report your success to the Doc" 
+jzquest_StoryLinePt11,"1 Storyline Quest Pt11: A Strange Growth"
+jzquest_StoryLinePt11Sub,"Collect the samples"
+jzquest_StoryLinePt11Desc,"After you read her the results she sounds surprised of the findings and leaves for a few minutes to talk to the other scientist. When she returns she tells you the findings have created more questions than answers and more information is needed to explain them. The Doc tells you the Military informed her they saw some unusual plant growths near their original base and she ask you to travel the to burnt out section of the city and get some samples to test at the Hospital. Report back your findings" 
+jzquest_StoryLinePt12,"1 Storyline Quest Pt12: Reporting In"
+jzquest_StoryLinePt12Sub,"Report the results"
+jzquest_StoryLinePt12Desc,"Report your success to the Doc" 
+jzquest_StoryLinePt13,"1 Storyline Quest Pt13: Red Skies at Night"
+jzquest_StoryLinePt13Sub,"Gather more samples "
+jzquest_StoryLinePt13Desc,"When you get in touch with the Doctor to tell her about the findings you notice she sounds like she is getting sick. She says that the flu is spreading through the CDC and many are sick but that the doctors have it under control. She lets you know their scouts have spotted another large horde coming their way and they will be locking up underground until it passes. The Doc tells you the Scientist have an idea but need fresh samples from the mutant creatures in the Hordes to test it. Collect some Mutated Tissue Samples and contact her after the Horde has passes." 
+jzquest_StoryLinePt14,"1 Storyline Quest Pt14: Reporting In"
+jzquest_StoryLinePt14Sub,"Report back"
+jzquest_StoryLinePt14Desc,"Report your success to the Doc" 
+jzquest_StoryLinePt15,"1 Storyline Quest Pt15: Let it Snow"
+jzquest_StoryLinePt15Sub,"Find a Security Card" 
+jzquest_StoryLinePt15Desc,"When you call back to report your success a Soldier tells you that the Doctor is sick with the flu like the others and is resting. He tells you they might have an idea where this all started. He tells you that there is a secret underground Military base in the burnt section that they lost contact with a few days before the zombies started showing up. He lets you know you will need a Security Card to access any of the computers and tells you he has a friend that works there that left to go to a Hunting Lodge in the snow just before the base went dark. He should have a Card" 
+jzquest_StoryLinePt16,"1 Storyline Quest Pt16: Belly of the Beast"
+jzquest_StoryLinePt16Sub,"Learn the Truth" 
+jzquest_StoryLinePt16Desc,"Now that you have the Security Card find the Military base in the Burnt Biome and make your way to the bottom test lab and into the Security Room to use the Security Card and learn what happened there" 
+jzquest_StoryLinePt17,"1 Storyline Quest Pt17: The Beginning"
+jzquest_StoryLinePt17Sub,"Report what you have learned" 
+jzquest_StoryLinePt17Desc,"You click on the last recording. Nights Vail Testing flashes in the upper corner of the screen. You see a group of Scientists gathered around a couch sized machine conducting an experiment. As the machine starts, wind appears to move papers around the room and a small ball of electricity begins to form growing to about the size of a beach ball. The Scientists begin to get animated and you see them trying to yal to each other above the noise of the device. The machine begins to smoke and the electric ball appears to explode.The video goes black then comes back on with the camera on the ground facing the back exit.You see the scientist get to their feet looking in fear in the direction of the machine. As they try to open the exit a grotesque foot lands in front of the camera and then a mutated creature comes into view attacking and killing all the scientist in seconds before another foot steps in front of the camera then the video goes to static. " 
+jzquest_RefundQuestName,Starting Refund Quest
+jzquest_RefundDesc,"This quest is used to return Knowledge Points when choosing your players Traits in the beginning of the game. After choosing your players Traits and Profession it is safe to abandon this quest."
+jzquest_StoneaxeCrafting,Stoneaxe Crafting
+jzquest_StoneShovelCrafting,Stone Shovel Crafting
+jzquest_IronFireaxeCrafting,Iron Fireaxe Crafting
+jzquest_SteelFireaxeCrafting,Steel Fireaxe Crafting
+jzquest_IronPickCrafting,Iron Pickaxe Crafting
+jzquest_SteelPickaxeCrafting,Steel Pickaxe Crafting
+jzquest_IronShovelCrafting,Iron Shovel Crafting
+jzquest_SteelShovelCrafting,Steel Shovel Crafting
+jzquest_ChainsawCrafting,Chainsaw Crafting
+jzquest_AugerCrafting,Auger Crafting
+jzquest_WrenchCrafting,Wrench Crafting
+jzquest_ClawHammerCrafting,Claw Hammer Crafting
+jzquest_SolarCellCrafting,Solar Crafting
+jzquest_CarBatteryCrafting,Car Battery Crafting
+jzquest_BoneKnifeCrafting,Bone Knife Crafting
+jzquest_HuntingKnifeCrafting,Hunting Knife Crafting
+jzquest_MacheteCrafting,Machete Crafting
+jzquest_WoodenClubCrafting,Wooden Club Crafting
+jzquest_IronClubCrafting,Iron Club Crafting
+jzquest_StunBatonCrafting,Stun Baton Crafting
+jzquest_StoneSpearCrafting,Stone Spear Crafting
+jzquest_IronSpearCrafting,Iron Spear Crafting
+jzquest_SteelSpearCrafting,Steel Spear Crafting
+jzquest_StoneSledgeCrafting,Stone Sledge Crafting
+jzquest_IronSledgeCrafting,Iron Sledge Crafting
+jzquest_SteelSledgeCrafting,Steel Sledge Crafting
+jzquest_KnuckleWrapCrafting,Knuckle Wrap Crafting
+jzquest_BrassKnucklesCrafting,Brass Knuckle Crafting
+jzquest_SteelKnucklesCrafting,Steel Knuckle Crafting
+jzquest_PistolCrafting,Pistol Crafting
+jzquest_44MagCrafting,44 Magnum Crafting
+jzquest_SMG5Crafting,SMG Crafting
+jzquest_BlunderbussCrafting,Blunderbuss Crafting
+jzquest_DBShotgunCrafting,Double Barrel Shotgun Crafting
+jzquest_PumpShotgunCrafting,Pump Shotgun Crafting
+jzquest_HuntingRifleCrafting,Hunting Rifle Crafting
+jzquest_MarksmanCrafting,Sniper Rifle Crafting
+jzquest_AK47Crafting,AK47 Crafting
+jzquest_M60Crafting,M60 Crafting
+jzquest_RocketLauncherCrafting,Rocket Launcher Crafting
+jzquest_PrimitiveBowCrafting,Primitive Bow Crafting
+jzquest_WoodenBowCrafting,Wooden Bow Crafting
+jzquest_CompoundBowCrafting,Compound Bow Crafting
+jzquest_IronCrossbowCrafting,Iron Crossbow Crafting
+jzquest_CompoundCrossbowCrafting,Compound Crossbow Crafting
+jzquest_JunkTurretCrafting,Junk Turret Crafting
+jzquest_Lv1Crafting_description,"Craft this amount to increase the quality level you can craft to Level 2"
+jzquest_Lv2Crafting_description,"Craft this amount to increase the quality level you can craft to Level 3"
+jzquest_Lv3Crafting_description,"Craft this amount to increase the quality level you can craft to Level 4"
+jzquest_Lv4Crafting_description,"Craft this amount to increase the quality level you can craft to Level 5"
+jzquest_Lv5Crafting_description,"Craft this amount to increase the quality level you can craft to Level 6"
+xuiFood,Fatigue
+
